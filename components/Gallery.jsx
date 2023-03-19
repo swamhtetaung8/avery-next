@@ -36,7 +36,7 @@ const Gallery = () => {
           className="absolute md:top-[50%] top-[40%] left-5">
           <IoChevronBackCircleOutline
             size={50}
-            className="text-white active:scale-105 hover:text-gray-900 transition-all duration-500"
+            className="text-white active:scale-105 hover:md:text-gray-900 transition-all duration-500"
           />
         </button>
         <button
@@ -44,7 +44,7 @@ const Gallery = () => {
           className="absolute md:top-[50%] top-[40%] right-5">
           <IoChevronForwardCircleOutline
             size={50}
-            className="text-white active:scale-105 hover:text-gray-900 transition-all duration-500"
+            className="text-white active:scale-105 hover:md:text-gray-900 transition-all duration-500"
           />
         </button>
       </div>
