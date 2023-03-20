@@ -15,7 +15,7 @@ const ContactLinks = () => {
           </div>
         </a>
         <a
-          href="https://www.facebook.com/nowevegotourownvibe"
+          href="https://www.instagram.com/chitm_n/"
           target={"_blank"}
           className="block group">
           <div className="border px-4 py-3 rounded-full border-black flex justify-between items-center group-hover:bg-black group-hover:text-white transition-all duration-500">
